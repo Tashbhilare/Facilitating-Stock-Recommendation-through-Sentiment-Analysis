@@ -1,7 +1,5 @@
 # Facilitating Stock Recommendations through Sentiment Analysis
 
-> **IEEE Published** — K.J. Somaiya College of Engineering, Mumbai
-
 ---
 
 ## Overview
