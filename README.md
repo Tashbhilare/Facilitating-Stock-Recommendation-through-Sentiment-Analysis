@@ -94,3 +94,5 @@ Step 3: Hybrid Model
 Published at **ICDICI 2024** — International Conference on Data Intelligence and Cognitive Informatics.
 
 *Shlok Bhura, Tanish Bhilare, Dr. Kavita Kelkar — K.J. Somaiya College of Engineering, Mumbai*
+
+[![IEEE](https://img.shields.io/badge/IEEE-View%20Paper-1565c0?style=flat-square&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/10810912)
